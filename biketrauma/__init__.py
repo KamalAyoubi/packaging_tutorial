@@ -1,1 +1,1 @@
-import numpy 
+__version__
