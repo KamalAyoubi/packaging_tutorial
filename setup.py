@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
   name='biketrauma',
-  version= '0.0.1.',
+  version= '0.0.1',
   description='Visualization of a bicycle accident db',
   url='https://github.com/KamalAyoubi/packaging_tutorial',
   author='K.Ayoubi',
