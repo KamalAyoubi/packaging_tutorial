@@ -1,6 +1,6 @@
 import pandas as pd
 from download import download
-from biketrauma.io import url_db, path_target
+from bike_3trauma.io import url_db, path_target
 
 
 class Load_db:

@@ -9,6 +9,6 @@ setup(
   author='K.Ayoubi',
   author_email='xxxxxxxxxx@xxxxxxxxxxxxx.xxx',
   license='MIT',
-  packages=['biketrauma','biketrauma.io', 'biketrauma.preprocess', 'biketrauma.vis'],
+  packages=['bike_3trauma','bike_3trauma.io', 'bike_3trauma.preprocess', 'bike_3trauma.vis'],
   zip_safe=False
 )
